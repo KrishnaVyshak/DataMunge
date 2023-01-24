@@ -88,6 +88,19 @@ Remove duplicate rows from a dataframe
 -   dataframe
 
 
+**File Structure**
+
+```
+|-- DataMunge/
+	 |-- DataMunge/
+		 |-- __init__.py
+		 |-- functions.py
+	 |-- tests/
+		 |-- test_functions.py 
+|-- setup.py 
+|-- README.md 
+|-- LICENSE
+```
 
 **Contribution**: Contributions are always welcomed. If you have any ideas for new features or improvements, feel free to open an issue or submit a pull request.
 
