@@ -30,7 +30,7 @@ Handle missing values in a dataframe
 **Params**:
 
 -   `data`: dataframe
--   `strategy`: string, strategy for handling missing values (mean, median, mode or KNN)
+-   `strategy`: string, strategy for handling missing values (mean, median or mode)
 
 **Returns**:
 
