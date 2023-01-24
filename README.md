@@ -92,11 +92,10 @@ Remove duplicate rows from a dataframe
 
 ```
 |-- DataMunge/
-	 |-- DataMunge/
-		 |-- __init__.py
-		 |-- functions.py
-	 |-- tests/
-		 |-- test_functions.py 
+	 |-- __init__.py
+	 |-- functions.py
+|-- tests/
+	 |-- test_functions.py 
 |-- setup.py 
 |-- README.md 
 |-- LICENSE
